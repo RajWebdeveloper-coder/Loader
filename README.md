@@ -21,17 +21,12 @@ This is a **basic practice project** to understand how to show a **loading state
 ## 🚀 How to Run
 1. Clone this repo  
    ```bash
-   git clone https://github.com/your-username/loader-practice.git
-   
-   ---
+   git clone https://github.com/RajWebdeveloper-coder/Loader
    
 2. Go Inside the directory
    ```bash
    cd loader-button-practice
    
-   ---
-   
 3. See the Code
    ```bash
    start index.html
-
